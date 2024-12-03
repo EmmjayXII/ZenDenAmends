@@ -615,6 +615,9 @@
       <name>Narcoject PEP</name>
       <ammo>2x10(c) + energy</ammo>
     </weapon>
-  
+    <weapon>
+      <name>Ingram Supermach 200</name>
+      <rc>2</rc>
+    </weapon>
   </weapons>
 </chummer>
