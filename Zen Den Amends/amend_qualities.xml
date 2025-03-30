@@ -297,8 +297,8 @@
 			<name>Lightning Reflexes</name>
 			<bonus amendoperation="replace">
 				<dodge>1</dodge>
-				<initiative precedence="-1">1</initiative>
-				<initiativepass precedence="-1">1</initiativepass>
+				<initiative>1</initiative>
+				<initiativepass>1</initiativepass>
 			</bonus>
 		</quality>
 		<quality>
