@@ -174,5 +174,93 @@
 		        </cyberware>
 	      	</subsystems>
 		</cyberware>
+		<cyberware>
+      		<name>Nanohive, Hard</name>
+      		<ess>0.25</ess>
+		</cyberware>
+		<cyberware>
+      		<name>Nanohive, Soft</name>
+      		<ess>0.2</ess>
+		</cyberware>
+			<!-- Hard Nanoware Price Adjustments  -->
+		<cyberware>
+      		<name>Anti-Rad</name>
+      		<cost>Rating * 1200</cost>
+      		<avail>14R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Control Rig Booster</name>
+      		<cost>Rating * 1200</cost>
+      		<avail>12R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Implant Medic</name>
+      		<cost>Rating * 1000</cost>
+			<bonus />
+      		<avail>12R</avail>
+		</cyberware>
+    	<cyberware>
+      		<id>dac0f054-1594-493b-8a2d-a4c7145eb02e</id>
+      		<avail>12R</avail>
+    	</cyberware>
+		<cyberware>
+      		<name>Nanite Hunters</name>
+      		<cost>Rating * 1000</cost>
+		</cyberware>
+		<cyberware>
+      		<name>Markers</name>
+      		<cost>Rating * 400</cost>
+		</cyberware>
+		<cyberware>
+      		<name>Trauma Control System</name>
+      		<cost>Rating * 800</cost>
+      		<avail>12R</avail>
+		</cyberware>
+			<!-- Soft Nanoware Price Adjustments  -->
+		<cyberware>
+      		<name>Anti-Tox</name>
+      		<cost>Rating * 1000</cost>
+      		<avail>16R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Carcerand-Plus</name>
+      		<cost>300</cost>
+      		<avail>10R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Nanosymbiotes</name>
+      		<cost>Rating * 1200</cost>
+      		<avail>16R</avail>
+		</cyberware>	
+		<cyberware>
+      		<name>Nantidotes</name>
+      		<cost>Rating * 300</cost>
+      		<avail>8R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Neural Amplifiers (Learning Stimulus)</name>
+      		<cost>Rating * 1200</cost>
+			<avail>14R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Neural Amplifiers (Limbic)</name>
+      		<cost>Rating * 1500</cost>
+      		<avail>16R</avail>
+		</cyberware>		
+		<cyberware>
+      		<name>Neural Amplifiers (Neocortical)</name>
+      		<cost>Rating * 1500</cost>
+      		<avail>16R</avail>
+		</cyberware>	
+		<cyberware>
+      		<name>Neural Amplifiers (Recall)</name>
+      		<cost>Rating * 700</cost>
+      		<avail>12R</avail>
+		</cyberware>
+		<cyberware>
+      		<name>Oxyrush</name>
+      		<cost>Rating * 300</cost>
+      		<avail>12R</avail>
+		</cyberware>		
 	</cyberwares>
 </chummer>
